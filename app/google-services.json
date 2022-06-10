@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346432926894",
+    "project_id": "rmaproject-5bbcd",
+    "storage_bucket": "rmaproject-5bbcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346432926894:android:0f94569d5584a6e518a93f",
+        "android_client_info": {
+          "package_name": "hr.ferit.ivagavran.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346432926894-0ljjgm23era6g14u5hsbae3hb24r50ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbDKHgINq3moSXfq4_zaLdF8o6J2eF76E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346432926894-0ljjgm23era6g14u5hsbae3hb24r50ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

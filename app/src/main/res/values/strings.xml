@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="geek">GeeK</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="image_contentDescription">Learn while you are having fun!</string>
+    <string name="let_s_get_started_text">Let\'s start!</string>
+    <string name="intro_text_description">Become the geekest geek and concur them all!</string>
+    <string name="sign_up_description_text">Sign up here!</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_in_description_text">Sign in here!</string>
+    <string name="Fresh">Fresh</string>
+</resources>
